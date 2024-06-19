@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MP-Code-Invest/.github-profile-README.md/main/Logo.png?token=GHSAT0AAAAAACSG2F3CUP2BHX7JTQ2EX63SZTRT27A" align="right" width="35%">
+<img src="https://github.com/MP-Code-Invest/.github/blob/main/logo.png" align="right" width="40%">
 
 
 <h1> MP Code & Invest </h2>
